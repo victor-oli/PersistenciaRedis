@@ -6,7 +6,7 @@ namespace ExemploPersistenciaRedis
     {
         static void Main(string[] args)
         {
-            PersistindoNaMemoria.Execute();
+            Subscribe.Execute();
 
             Console.ReadKey();
         }
